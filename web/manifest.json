@@ -1,0 +1,11 @@
+{
+  "name": "Wordle Solver",
+  "short_name": "Wordle Solver",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3f7f5f",
+  "description": "A browser-only Wordle solver.",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false
+}
