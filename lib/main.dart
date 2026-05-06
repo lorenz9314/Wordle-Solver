@@ -14,7 +14,7 @@ class WordleSolverApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Wordle Solver',
+      title: 'Unofficial Solver for Wordle',
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: const Color(0xff3f7f5f)),
         useMaterial3: true,
