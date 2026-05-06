@@ -139,7 +139,7 @@ class _SolverPageState extends State<SolverPage> {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Wordle Solver'),
+        title: const Text('Unofficial Solver for Wordle'),
         actions: [
           IconButton(
             tooltip: 'Clear',
