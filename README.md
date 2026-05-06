@@ -1,6 +1,6 @@
-# Wordle Solver Flutter Web App
+# Unofficial Solver for Wordle Puzzles
 
-A mobile-first, single-page Flutter web app for solving five-letter Wordle-style riddles. It runs fully in the browser and has no backend.
+An unofficial solver for wordle puzzles. This app is a static single page implementation, built using flutter.
 
 ## How it works
 
